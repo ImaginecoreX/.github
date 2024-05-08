@@ -1,6 +1,6 @@
 # Welcome to ImaginecoreX (Pvt) Ltd 🚀
 
-``
+```
       .---.        .-----------
      /     \  __  /    ------
     / /     \(  )/    -----
@@ -11,8 +11,8 @@
        ====UU====UU====
            '//||\\`
              ''``
-        Daron Brewood
-``
+        ImaginecoreX.
+```
 
 
 
