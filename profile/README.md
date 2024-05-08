@@ -1,15 +1,5 @@
 # Welcome to ImaginecoreX (Pvt) Ltd 🚀
 
-<html>
-  <head>
-  </head>
-  <body>
-    <div id="typing-text" style="color: red;">Belive What You Doing!</div>
-
-
-  </body>
-</html>
-
 ![ImaginecoreX Logo](https://github.com/ImaginecoreX/.github/blob/main/profile/cover.png)
 
 ImaginecoreX is not just a company; it's a journey into the future of technology. 🌟 We're a team of passionate individuals dedicated to pushing the boundaries of innovation and creativity.
