@@ -1,6 +1,6 @@
 # Welcome to ImaginecoreX (Pvt) Ltd 🚀
 
-![ImaginecoreX Logo](imaginecorex_logo.svg)
+![ImaginecoreX Logo](https://github.com/ImaginecoreX/.github/blob/main/profile/cover.png)
 
 ImaginecoreX is not just a company; it's a journey into the future of technology. 🌟 We're a team of passionate individuals dedicated to pushing the boundaries of innovation and creativity.
 
