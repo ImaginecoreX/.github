@@ -1,6 +1,11 @@
-<h1 align="center">Welcome to ImaginecoreX (Pvt) Ltd 🚀</h1>
+![ImaginecoreX Banner](https://github.com/ImaginecoreX/.github/blob/main/profile/covermini.png)
 
-![ImaginecoreX Logo](https://github.com/ImaginecoreX/.github/blob/main/profile/cover.png)
+<div align="center">
+
+ ![ImaginecoreX Logo](https://github.com/ImaginecoreX/.github/blob/main/profile/logo.png)
+
+ <h1 align="center">Welcome to ImaginecoreX (Pvt) Ltd 🚀</h1>
+</div>
 
 ImaginecoreX is not just a company; it's a journey into the future of technology. 🌟 We're a team of passionate individuals dedicated to pushing the boundaries of innovation and creativity.
 
