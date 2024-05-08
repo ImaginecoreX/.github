@@ -1,5 +1,22 @@
 # Welcome to ImaginecoreX (Pvt) Ltd 🚀
 
+<div id="typing-text"></div>
+
+<script>
+const text = "We're ImaginecoreX, and we're here to innovate!";
+
+let index = 0;
+function type() {
+  if (index < text.length) {
+    document.getElementById('typing-text').innerText += text.charAt(index);
+    index++;
+    setTimeout(type, 50); // Adjust typing speed here (in milliseconds)
+  }
+}
+
+type();
+</script>
+
 ![ImaginecoreX Logo](https://github.com/ImaginecoreX/.github/blob/main/profile/cover.png)
 
 ImaginecoreX is not just a company; it's a journey into the future of technology. 🌟 We're a team of passionate individuals dedicated to pushing the boundaries of innovation and creativity.
