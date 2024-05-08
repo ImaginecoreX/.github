@@ -2,7 +2,7 @@
 
 <div align="center">
 
- ![ImaginecoreX Logo](https://github.com/ImaginecoreX/.github/blob/main/profile/logo.png)
+ ![ImaginecoreX Logo](https://github.com/ImaginecoreX/.github/blob/main/profile/logomini.png)
 
  <h1 align="center">Welcome to ImaginecoreX (Pvt) Ltd 🚀</h1>
 </div>
