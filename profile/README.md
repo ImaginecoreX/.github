@@ -1,21 +1,5 @@
 # Welcome to ImaginecoreX (Pvt) Ltd 🚀
 
-```
-      .---.        .-----------
-     /     \  __  /    ------
-    / /     \(  )/    -----
-   //////   ' \/ `   ---
-  //// / // :    : ---
- // /   /  /`    '--
-//          //..\\
-       ====UU====UU====
-           '//||\\`
-             ''``
-        ImaginecoreX.
-```
-
-
-
 ![ImaginecoreX Logo](imaginecorex_logo.svg)
 
 ImaginecoreX is not just a company; it's a journey into the future of technology. 🌟 We're a team of passionate individuals dedicated to pushing the boundaries of innovation and creativity.
