@@ -6,7 +6,7 @@ ImaginecoreX is not just a company; it's a journey into the future of technology
 
 ## About Us 💡
 
-At ImaginecoreX, we believe in harnessing the power of technology to shape a better tomorrow. Our mission is to revolutionize industries through cutting-edge software solutions, futuristic automotive designs, and beyond.
+At ImaginecoreX, we believe in harnessing the power of technology to shape a better tomorrow. Our mission is to revolutionize industries through cutting-edge software solutions and consultancy services.
 
 ## Our Values 💎
 
@@ -18,7 +18,6 @@ At ImaginecoreX, we believe in harnessing the power of technology to shape a bet
 ## What We Offer 🌐
 
 - **Software Solutions**: From web development to AI, we craft bespoke solutions to suit your needs.
-- **Automotive Engineering**: Our dream is to create the cars of the future, where technology and luxury meet.
 - **Consultancy Services**: Need guidance on your tech journey? We're here to help.
 
 ## Tech Stack 🛠️
@@ -33,3 +32,14 @@ At ImaginecoreX, we believe in harnessing the power of technology to shape a bet
 - Cloud: AWS, Azure
 - Mobile: Flutter, React Native
 - Blockchain: Ethereum, Hyperledger
+
+  _   _      _ _         __        __         _     _ _ 
+ | | | | ___| | | ___    \ \      / /__  _ __| | __| | |
+ | |_| |/ _ \ | |/ _ \    \ \ /\ / / _ \| '__| |/ _` | |
+ |  _  |  __/ | | (_) |    \ V  V / (_) | |  | | (_| |_|
+ |_| |_|\___|_|_|\___( )    \_/\_/ \___/|_|  |_|\__,_(_)
+                     |/
+
+Feel free to explore our repositories and join us in shaping the future!
+
+🚀 Let's innovate together! 🚀
