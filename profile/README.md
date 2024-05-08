@@ -1,4 +1,4 @@
-# Welcome to ImaginecoreX (Pvt) Ltd 🚀
+<h1 align="center">Welcome to ImaginecoreX (Pvt) Ltd 🚀</h1>
 
 ![ImaginecoreX Logo](https://github.com/ImaginecoreX/.github/blob/main/profile/cover.png)
 
