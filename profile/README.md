@@ -33,13 +33,14 @@ At ImaginecoreX, we believe in harnessing the power of technology to shape a bet
 - Mobile: Flutter, React Native
 - Blockchain: Ethereum, Hyperledger
 ```
+ ```
   _   _      _ _         __        __         _     _ _ 
  | | | | ___| | | ___    \ \      / /__  _ __| | __| | |
  | |_| |/ _ \ | |/ _ \    \ \ /\ / / _ \| '__| |/ _` | |
  |  _  |  __/ | | (_) |    \ V  V / (_) | |  | | (_| |_|
  |_| |_|\___|_|_|\___( )    \_/\_/ \___/|_|  |_|\__,_(_)
                      |/
-
+```
 Feel free to explore our repositories and join us in shaping the future!
 
 🚀 Let's innovate together! 🚀
