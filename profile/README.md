@@ -2,23 +2,9 @@
 
 <html>
   <head>
-    <script>
-const text = "We're ImaginecoreX, and we're here to innovate!";
-
-let index = 0;
-function type() {
-  if (index < text.length) {
-    document.getElementById('typing-text').innerText += text.charAt(index);
-    index++;
-    setTimeout(type, 50); // Adjust typing speed here (in milliseconds)
-  }
-}
-
-type();
-</script>
   </head>
   <body>
-    <div id="typing-text"></div>
+    <div id="typing-text" style="color: red;">Belive What You Doing!</div>
 
 
   </body>
