@@ -1,8 +1,8 @@
 # Welcome to ImaginecoreX (Pvt) Ltd 🚀
 
-<div id="typing-text"></div>
-
-<script>
+<html>
+  <head>
+    <script>
 const text = "We're ImaginecoreX, and we're here to innovate!";
 
 let index = 0;
@@ -16,6 +16,13 @@ function type() {
 
 type();
 </script>
+  </head>
+  <body>
+    <div id="typing-text"></div>
+
+
+  </body>
+</html>
 
 ![ImaginecoreX Logo](https://github.com/ImaginecoreX/.github/blob/main/profile/cover.png)
 
